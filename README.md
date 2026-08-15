@@ -4,7 +4,7 @@ A hands-on deep learning repository where I build and experiment with different 
 
 The main goal of this repository is to understand how deep learning models work internally by implementing, training, and experimenting with different architectures.
  ## 🔬 Vision Transformer (ViT)
-
+<img src="images/vision_transformer.png" width="500">
 Implemented a **Vision Transformer from scratch using PyTorch** for MNIST classification.
 
 ### Implementation
